@@ -1,0 +1,5 @@
+fastapi
+email-validator
+pydantic[email]
+python-multipart
+google-genai

@@ -1,0 +1,3 @@
+com\crm\service\impl\TaskServiceImplTest.class
+com\crm\controller\ContactControllerTest.class
+com\crm\controller\TaskControllerIntegrationTest.class
